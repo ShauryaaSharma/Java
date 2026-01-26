@@ -1,3 +1,5 @@
+package First_Lesson;
+
 import java.util.Scanner;
 
 public class Program_Example {
