@@ -1,3 +1,5 @@
+package First_Lesson;
+
 import java.util.Scanner;
 
 public class Scanner_input {
@@ -7,6 +9,6 @@ public class Scanner_input {
         // Since Java is a NON-Static class hence we need to create a object before using it. Hence "new Scanner" creates an object which can be used to take input.
         Scanner input = new Scanner(System.in);
         //Here input is a variable which is pointing to the object of the Scanner class.
-        System.out.println(input.nextInt());;
+        System.out.println(input.nextInt());
     }
 }
