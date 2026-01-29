@@ -1,6 +1,4 @@
-package Second_Session;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Loops_example {
