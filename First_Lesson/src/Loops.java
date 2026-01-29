@@ -1,5 +1,3 @@
-package First_Lesson;
-
 public class Loops {
     public static void main(String[] args) {
         int a = 10;
