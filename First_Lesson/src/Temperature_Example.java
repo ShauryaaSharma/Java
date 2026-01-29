@@ -1,5 +1,3 @@
-package First_Lesson;
-
 import java.util.Scanner;
 
 public class Temperature_Example {
@@ -8,6 +6,7 @@ public class Temperature_Example {
         System.out.print("Enter your temperature in C: ");
         float tempC = input.nextFloat();
         float tempF = (tempC * 1.8f) + 32;
+        System.out.print("Your temperature in F: ");
         System.out.println(tempF);
     }
 }

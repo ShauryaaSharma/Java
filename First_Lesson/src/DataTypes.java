@@ -1,8 +1,6 @@
-package First_Lesson;
-
 public class DataTypes {
     public static void main(String[] args) {
-        //Primitive First_Lesson.DataTypes: The First_Lesson.DataTypes which cannot be broken down further
+        //Primitive DataTypes: The DataTypes which cannot be broken down further
         int rollNumber = 64;
         char letter = 'r';
         float marks = 98.67f;

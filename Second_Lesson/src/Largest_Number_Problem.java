@@ -1,5 +1,3 @@
-package Second_Session;
-
 import java.util.Scanner;
 
 public class Largest_Number_Problem {
