@@ -1,5 +1,3 @@
-package Second_Session;
-
 public class conditionalStatements {
     public static void main(String[] args) {
         int salary = 125000;
